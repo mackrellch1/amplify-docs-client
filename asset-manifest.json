@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amplify-docs-client/static/css/main.bc14c923.chunk.css",
+    "main.js": "/amplify-docs-client/static/js/main.92e1121b.chunk.js",
+    "main.js.map": "/amplify-docs-client/static/js/main.92e1121b.chunk.js.map",
+    "runtime-main.js": "/amplify-docs-client/static/js/runtime-main.09545267.js",
+    "runtime-main.js.map": "/amplify-docs-client/static/js/runtime-main.09545267.js.map",
+    "static/css/2.d70eda21.chunk.css": "/amplify-docs-client/static/css/2.d70eda21.chunk.css",
+    "static/js/2.9f11ae89.chunk.js": "/amplify-docs-client/static/js/2.9f11ae89.chunk.js",
+    "static/js/2.9f11ae89.chunk.js.map": "/amplify-docs-client/static/js/2.9f11ae89.chunk.js.map",
+    "index.html": "/amplify-docs-client/index.html",
+    "static/css/2.d70eda21.chunk.css.map": "/amplify-docs-client/static/css/2.d70eda21.chunk.css.map",
+    "static/css/main.bc14c923.chunk.css.map": "/amplify-docs-client/static/css/main.bc14c923.chunk.css.map",
+    "static/js/2.9f11ae89.chunk.js.LICENSE.txt": "/amplify-docs-client/static/js/2.9f11ae89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09545267.js",
+    "static/css/2.d70eda21.chunk.css",
+    "static/js/2.9f11ae89.chunk.js",
+    "static/css/main.bc14c923.chunk.css",
+    "static/js/main.92e1121b.chunk.js"
+  ]
+}
